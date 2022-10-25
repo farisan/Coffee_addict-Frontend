@@ -274,9 +274,9 @@
     margin-left: 80px;
 }
 
-.product-img {
+/* .product-img {
     
-}
+} */
 
 .product-posisi {
     background: #FFFFFF;
@@ -347,7 +347,7 @@
 }
 
 .card_customer:first-child {
-    border: 2px solid var(--choco);
+    border: 2px solid white;
 }
 
 .controller {
@@ -362,18 +362,20 @@
     border-radius: 10px;
     left: 0;
     right: 0;
-    border: 1px solid var(--abumuda);
+    border: 1px solid grey;
     bottom: -300px;
 }
 
-.btn__promo {
-    color: var(--choco);
+
+.promo {
+    color: white;
     font-family: 'Rubik';
     font-size: 16px;
     line-height: 25px;
-    background: var(--jeruk);
+    background: orange;
     border-radius: 10px;
-    padding: 2% 7%;
+    margin-right: 20px;
+    padding: 20px 50px;
     transition: all 0.3s;
 }
 
