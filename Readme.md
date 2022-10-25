@@ -1,8 +1,8 @@
 ## Built With
 
-- [![CSS][css]]
-- [![HTML][html]]
-- [[Bootstraps]](https://getbootstrap.com/)
+- `HTML`
+- `CSS`
+- `Bootstraps`
 
 <br>
 
